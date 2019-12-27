@@ -49,6 +49,9 @@ url:
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
+#Theme
+theme: jekyll-theme-architect
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
@@ -84,5 +87,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-theme: jekyll-theme-architect
